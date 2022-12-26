@@ -1,4 +1,7 @@
-This script processes a Verilog file by:
+
+## Utility to expand emacs Verilog-mode auto comments in batch mode.
+
+This utility processes a Verilog file by:
 
 * Loading it into `emacs`.
 * Expanding all AUTOS found using `verilog-mode.el` in `emacs`
